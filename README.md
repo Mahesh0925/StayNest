@@ -4,6 +4,11 @@
 
 ---
 
+## 🚀 Live Demo
+*Coming soon — your app’s URL when deployed!*
+
+---
+
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
